@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @freak303
+- 👋 Hi, I’m Saqib
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning App Dev
 - 💞️ I’m looking to collaborate on coding related
 - 📫 reach me by email mds168723@gmail.com
 
