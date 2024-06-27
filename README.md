@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Angular with C# .net core framework
 - 💞️ I’m looking to collaborate on coding related
-- 📫 reach me by email mds168723@gmail.com
+- 📫 reach me by email md.shakil0165@gmail.com
 
 <!---
 freak303/freak303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
